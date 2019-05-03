@@ -1,7 +1,7 @@
 {
-  "name": "simple-vcard",
+  "name": "svcard",
   "version": "0.1.0",
-  "homepage": "https://github.com/codeguydave.github.io/simplevcard",
+  "homepage": "https://github.com/codeguydave.github.io/svcard",
   "private": true,
   "dependencies": {
     "react": "^16.8.4",
@@ -16,7 +16,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-  
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -26,7 +25,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
-
- 
