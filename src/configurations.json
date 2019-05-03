@@ -1,0 +1,40 @@
+{
+  "backgroundType": "plain",
+  "plainBackgroundMode": "daylight",
+  "devIntro": "Hi,I'm Coder Dave",
+  "devDesc": "Frontend Dev | ReactJs| Html5 | Css3 | Nodejs | Bootstrap 4 | Php  | Email Dev",
+  "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
+  "linkIntro": "Press Links Below",
+  "backgroundImageUrl": "http://hdwpro.com/wp-content/uploads/2017/03/Art-Background-Image.png",
+  "icons": [
+    {
+      "image": "fas fa-code",
+      "url": "https://sourceonemusic.netlify.com/"
+    },
+    {
+      "image": "fas fa-code",
+      "url": "https://reactsasscitytours.netlify.com/"
+    },
+    {
+      "image": "fas fa-code",
+      "url": "https://organicsmoothie.netlify.com/"
+    },
+    {
+      "image": "fas fa-code",
+      "url": "https://codeguydave.github.io/fast_words/"
+    },
+    {
+      "image": "fas fa-code",
+      "url": "https://mixu.netlify.com/"
+    },
+    {
+      "image": "fab fa-behance",
+      "url": "https://www.behance.net/gallery/79688069/Social-Media-Brand"
+    },
+    {
+      "image": "fa-github",
+      "url": "https://github.com/codeguydave"
+    }
+  
+  ]
+}
