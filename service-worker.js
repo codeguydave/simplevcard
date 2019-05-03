@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/codeguydave.github.io/simplevcard/precache-manifest.34ac944ddb6bc008f97bd147f96f8686.js"
+  "/codeguydave.github.io/svcard/precache-manifest.8720660d46bf9b7d50e24d33b6073d36.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/codeguydave.github.io/simplevcard/index.html", {
+workbox.routing.registerNavigationRoute("/codeguydave.github.io/svcard/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
